@@ -11,10 +11,10 @@ export const profile = {
   miniroom: { src: "/assets/ssukaeng-miniroom.webp", alt: "쑤캥T의 보건실과 AI 작업실 미니룸" },
   /* 아래는 탭 이름표입니다. 나만의 이름으로 바꿔도 되고, 안 바꾸면 기본값 그대로 나옵니다. */
   storyLabel: "연재물",
-  boardLabel: "쑤캥T 작업실 🦦",
+  boardLabel: "작업실",
   boardSubtitle: "AI·웹앱·업무도구",
   boardEmptyText: "아직 올린 글이 없습니다.",
-  photoLabel: "쑤캥T의 일상 📷",
+  photoLabel: "일상",
   photoSubtitlePrefix: "사진",
   /* 오른쪽 위, 옛날 싸이월드 주소창을 흉내 낸 문구입니다. */
   displayUrl: "sungandi86-max.github.io/sungandi-mini-homepage"
