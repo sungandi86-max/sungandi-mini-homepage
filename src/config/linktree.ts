@@ -180,8 +180,4 @@ export type GuestbookEntry = {
   date: string;
 };
 
-export const guestbook: GuestbookEntry[] = [
-  { id: 1, author: "수달친구", text: "쑤캥T 작업실 구경 잘 하고 갑니다 💚 만든 것들이 다 너무 유용해요!", date: "2026.09.02" },
-  { id: 2, author: "보건쌤", text: "보건실 업무도구 구경하러 왔다가 한참 보고 가요 :) 좋은 자료 공유 감사합니다!", date: "2026.09.02" },
-  { id: 3, author: "지나가던쌤", text: "AI랑 보건업무를 이렇게 연결할 수도 있네요 👀 다음 작업도 기대할게요!", date: "2026.09.02" }
-];
+export const guestbook: GuestbookEntry[] = [];
