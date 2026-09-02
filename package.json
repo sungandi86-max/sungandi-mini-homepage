@@ -1,14 +1,14 @@
 {
-  "name": "mini-homepage",
+  "name": "sungandi-mini-homepage",
   "version": "1.0.0",
   "private": false,
   "license": "MIT",
-  "author": "ljh6479z",
+  "author": "sungandi86-max",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ljh6479z/mini-homepage.git"
+    "url": "https://github.com/sungandi86-max/sungandi-mini-homepage.git"
   },
-  "homepage": "https://ljh6479z.github.io/mini-homepage/",
+  "homepage": "https://sungandi86-max.github.io/sungandi-mini-homepage/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
